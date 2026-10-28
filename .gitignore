@@ -36,3 +36,5 @@ build/
 env.properties
 .env
 *.local
+
+.gradle/
