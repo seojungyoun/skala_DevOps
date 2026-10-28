@@ -19,4 +19,4 @@ patches:
 images:
 - name: skala-registry.skala-ai.com/class-1/sk015-webserver
   newName: skala-registry.skala-ai.com/class-1/sk015-webserver
-  newTag: 1.0-bk2-d3cd374
+  newTag: 1.0-bd5-9b07e6d
